@@ -1,2 +1,7 @@
 # mkisser-tgm.github.io
-github.io containing my yearly notes on stuff I've learned or stumbled across
+- [My github](http://github.com/mkisser-tgm)
+
+# Previous Years
+- none
+
+# Ideas I stumble onto
