@@ -18,6 +18,8 @@ CppCon 2014: Mike Acton "Data-Oriented Design and C++"
 
 Is a design principle for code that simplifies code by reducing states and optimizing for compiler and memory/cache/cpu performance. E.g. Why fetch only 1 bit for a boolean when you have 63 bits left in that cpu cycle for the memory lane. 
 
+[Additional Resources](http://www.dataorienteddesign.com/site.php)
+
 ### Cache Misses
 
 <https://www.extremetech.com/extreme/188776-how-l1-and-l2-cpu-caches-work-and-why-theyre-an-essential-part-of-modern-chips>
